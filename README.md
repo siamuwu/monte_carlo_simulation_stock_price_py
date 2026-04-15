@@ -71,7 +71,7 @@ Where:
 
 ## Preview:
 ![Output](Images/console.png)
-![Paths](Images/console.png)
+![Paths](Images/outcome.png)
 ![PDF](Images/pdf.png)
 
 ---
