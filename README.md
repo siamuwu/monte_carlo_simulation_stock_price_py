@@ -6,6 +6,7 @@ This project uses **Monte Carlo simulation** to model and predict future stock p
 
 The simulation generates thousands of possible price paths over a fixed time horizon and analyzes the statistical distribution of final prices.
 
+The graphs were created using Matplotlib.
 
 ## ⚙️ Features
 
@@ -67,6 +68,11 @@ Where:
 * Option pricing models
 * Algorithmic trading research
 * Educational demonstrations of stochastic processes
+
+## Preview:
+![Output](Images/console.png)
+![Paths](Images/console.png)
+![PDF](Images/pdf.png)
 
 ---
 ## ⚠️ Disclaimer
